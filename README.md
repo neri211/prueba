@@ -5,3 +5,6 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm intall react```
+
+
+sistema de Regitro 2 
